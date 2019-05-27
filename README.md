@@ -4,7 +4,7 @@ Demo examples for Mockito
 #### Libs:
 **Java-version: 11**
 
-**Mockito-version: 1.9.5**
+**Mockito-version: 2.23**
 
 #### Short description:
 Repository with some mockito examples. Just for me.
